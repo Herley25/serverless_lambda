@@ -1,0 +1,23 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herley25/serverless_lambda.git"
+  },
+  "author": "Herley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herley25/serverless_lambda/issues"
+  },
+  "homepage": "https://github.com/Herley25/serverless_lambda#readme",
+  "devDependencies": {
+    "serverless": "^2.11.0",
+    "serverless-offline": "^6.8.0"
+  }
+}
